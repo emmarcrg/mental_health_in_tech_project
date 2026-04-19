@@ -4,4 +4,6 @@ En ce basant sur le dataset Mental Health in Tech Survey, je vais essayer de dé
 
 ## Problèmatique : 
 
-Quelles sont les caractèristiques qui peuvent augmenter le risque de maladie mentale chez un individu ?
+Quelles sont les caractéristiques qui peuvent augmenter le risque de maladie mentale chez un individu ? 
+
+Est-il possible de définir la probabilité pour qu'une personne ait une maladie mentale ?
